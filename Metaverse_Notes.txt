@@ -1,0 +1,97 @@
+
+Metaverse Masterclass- Learn Everything about the Metaverse!
+https://tcsglobal.udemy.com/course/metaverse-masterclass-learn-everything-about-the-metaverse/learn/lecture/29755992#announcements> 
+
+
+
+Metaverse is not Owned by META(Facebook).. 
+It is decentralized network based out of 
+	- Web 3.0
+	- Blockchain
+	- Gaming 
+	- Mixed Reality(Virtual Reality + Augmented Reality)
+		- Virtual Reality - Virtual world
+			§ VR headsets - Oculus/ Varjo/Steam/ Vive/Playstation VR/HP Reverb G2/Manus(Gloves)/Teslasuit/bhaptics(suits)
+		- Augmented Reality - Real world + Virtual elements
+			§ Apps - IKEA Place/ Pokeman Go/loreal - Virtual makeup/Hololens 2/Lenovo Jedi challenge
+		
+Metaverse - Tokens(https://coinmarketcap.com/)
+	- The Sandbox - $SAND
+	- Decentraland - $MANA
+	- Axie Infinity - $AXS
+	- My Neighbor Alice Currency - $ALICE
+	- Gala Games Ecosystem(Game Studio) - $GALA
+	- Vulcan Forged(Game Studio) - $PYR
+	- Treeverse
+	- Townstar
+	- Star Atlas - space
+	- Uplift World
+	- Blocktopia
+	- Somnium
+	- Bktime
+	- Otherside
+	- Upland 
+	- Pixelvnx - music and concerts
+	
+	
+Industries
+	- Social Media - Meta
+	- Gaming - Sandbox - Playtoearn.net
+	- Fashion - Vogue, KnownOrigin, bitski, dressx(digital cloths), The fabricant - Puma
+	- Marketing - 
+	- Brands
+	- Finance - Pawnfi, nftfi(takes NFT's as Colateral and give digital currency)
+	- Architecture
+	- Land - Metaverse Properties, Rentabyl, Landworks
+	- Virtual Shows and Concerns - Fortunight -
+	- Art Gallaries and Museums
+	- Country Diplomacy - Barbados country which opened embassy in Metaverse
+
+Metaverse Pyramid
+--------------------------
+ High Risk                                                   You
+                                                           NFT assets 
+                                                  Land Layer - land in Sandbox/decentraland(limited land)
+                                      Token layer - MANA/SAND/AXS
+ Low Risk           Infrastructure Layer - Ethereum/Solana/TRON/CARDANO/WAX/EOS/T3/Polygon - Web 3.0/Blockchain
+
+Web
+-----
+Web 1.0
+	- Information Economy
+	- Static read-only
+	- On-premise
+	- centralized
+Web 2.0
+  -  Platform Economy
+	- Read and Write Internet
+	- Cloud
+	- Centralized
+Web 3.0
+	- Token Economy
+	- Read/Write/Own Internet
+	- Blockchain /IPFS
+	- Decentralized
+Flow
+User -> Web pages(web 2.0) ->transaction happens(Blockchain/Web 3.0) 
+
+
+
+NFT -  Non Fungible Tokens 
+		- unique/authentic 
+		 - different values and properties 
+		- scares(hence the value and demand)
+		- Lives in Smart Contracts 
+Types
+	Crypto Collectables -  CryptoPunks
+	Virtual Lands - 
+	Artworks
+	Gaming Items(owned by user than gaming companies)
+	
+	
+	
+	
+
+	
+	
+
